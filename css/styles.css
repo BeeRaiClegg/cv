@@ -1,0 +1,115 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 5rem;
+  margin: 0;
+  padding-top: 150px;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  color: #66BFBF;
+  margin-bottom: 50px;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  color: #11999E;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  color: #40514E;
+}
+hr {
+  border-style: none;
+  border-bottom-style: dotted;
+  border-width: 10px;
+  border-color: #EAF6F6;
+  width: 6%;
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
+
+.yoga {
+  font-style: italic;
+  font-weight: bold;
+}
+.pic {
+  margin: 50px;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+}
+.mid-container {
+  margin-bottom: 50px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 450px;
+}
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px
+}
+.BUTTON_ANP {
+   background: #11999E;
+   background-image: -webkit-linear-gradient(top, #EAF6F6, #11999E);
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 1rem;
+   font-weight: 100;
+   margin-top: 30px;
+   padding: 10px;
+   box-shadow: 1px 1px 10px 0 #000000;
+   text-shadow: 1px 1px 10px #000000;
+   border: solid #11999E 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_ANP:hover {
+   border: solid #66BFBF 1px;
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #66BFBF, #3D94F6);
+   border-radius: 20px;
+   text-decoration: none;
+}
+.footer-link {
+  color: #11999E;
+  margin-right: 50px;
+}
+.skill-row {
+  /*display: inline-block;*/
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+  margin: 50px auto 100px;
+}
+.pm-img {
+  float:left;
+  margin-right: 30px;
+  width: 25%;
+}
+.yoga-img {
+  float:right;
+  margin-left: 30px;
+  width: 25%;
+}
+.brc {
+  color: #EAF6F6;
+  font-size: .8rem;
+  margin: 30px auto;
+}
