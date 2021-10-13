@@ -2,6 +2,7 @@ body {
   text-align: center;
   margin: 0;
   font-family: 'Merriweather', serif;
+  color: #40540E;
 }
 h1 {
   color: #66BFBF;
@@ -23,13 +24,14 @@ h3 {
 }
 p {
   color: #40514E;
+  line-height: 2;
 }
 hr {
-  border-style: none;
-  border-bottom-style: dotted;
-  border-width: 10px;
+  border-style: dotted;
+  border-bottom-style: none;
   border-color: #EAF6F6;
   width: 6%;
+  border-width: .7rem;
   margin-top: 70px;
   margin-bottom: 60px;
 }
@@ -48,18 +50,23 @@ hr {
 .mid-container {
   margin-bottom: 50px;
 }
+.intro {
+  width: 40%;
+  margin: auto;
+}
 .bottom-container {
   background-color: #66BFBF;
-  padding: 30px;
+  padding: 40px 0 10px;
 }
 .top-cloud {
   position: absolute;
   top: 50px;
-  right: 450px;
+  right: 300px;
 }
 .bottom-cloud {
   position: absolute;
-  bottom: 300px
+  bottom: 300px;
+  left: 150px;
 }
 .BUTTON_ANP {
    background: #11999E;
@@ -87,9 +94,14 @@ hr {
    border-radius: 20px;
    text-decoration: none;
 }
-.footer-link {
+a {
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
   margin-right: 50px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
 }
 .skill-row {
   /*display: inline-block;*/
