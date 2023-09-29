@@ -55,7 +55,7 @@ hr {
   margin: auto;
 }
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #669966;
   padding: 40px 0 10px;
 }
 .top-cloud {
@@ -88,8 +88,8 @@ hr {
 }
 
 .BUTTON_ANP:hover {
-   border: solid #66BFBF 1px;
-   background: #66BFBF;
+   border: solid #669966 1px;
+   background: #669966;
    background-image: -webkit-linear-gradient(top, #66BFBF, #3D94F6);
    border-radius: 20px;
    text-decoration: none;
