@@ -69,8 +69,8 @@ hr {
   left: 150px;
 }
 .BUTTON_ANP {
-   background: #11999E;
-   background-image: -webkit-linear-gradient(top, #EAF6F6, #11999E);
+   /*background: #11999E;*/
+   background-image: -webkit-linear-gradient(top, #669966, #11999E);
    border-radius: 20px;
    color: #FFFFFF;
    font-family: 'Montserrat', sans-serif;
