@@ -95,13 +95,13 @@ hr {
    text-decoration: none;
 }
 a {
-  color: #11999E;
+  color: #EAF6F6;
   font-family: 'Montserrat', sans-serif;
   margin-right: 50px;
   text-decoration: none;
 }
 a:hover {
-  color: #EAF6F6;
+  color: #11999E;
 }
 .skill-row {
   /*display: inline-block;*/
